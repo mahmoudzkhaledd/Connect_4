@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\MY Projects\Programming\Connect-4\Connect-4\Source.cpp(80,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MY Projects\Programming\Connect-4\Connect-4\Source.cpp(168,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\MY Projects\Programming\Connect-4\Connect-4\Source.cpp(216,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\MY Projects\Programming\Connect-4\Connect-4\Source.cpp(234,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Connect-4.vcxproj -> D:\MY Projects\Programming\Connect-4\Debug\Connect-4.exe
